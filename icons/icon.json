@@ -3,7 +3,7 @@
 	"description":"自用",  
 	"icons":
 		[
-			{"name":"Emby", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/Emby.png"},
+			{"name":"Monday", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Monday.png"},
 			{"name":"Music", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/Music.png"}
 		]
 }
