@@ -9,6 +9,10 @@
 			{"name":"Thu", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Thu.png"},
 			{"name":"Wed", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Wed.png"},
 			{"name":"Tue", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Tue.png"},
-			{"name":"Mon", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Mon.png"}
+			{"name":"Mon", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Mon.png"},
+			{"name":"hanju", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/hanju.png"},
+			{"name":"yingju", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/yingju.png"},
+			{"name":"meiju", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/meiju.png"},
+			{"name":"China", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/China.png"}
 		]
 }
