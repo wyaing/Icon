@@ -3,7 +3,7 @@
 	"description":"自用",  
 	"icons":
 		[
-			{"name":"svg", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/test/ceui.svg"},
+			{"name":"123", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/test/123.png"},
 			{"name":"1440", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/test/1440×900.png"},
 			{"name":"720", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/test/720×450.png"}
 		]
