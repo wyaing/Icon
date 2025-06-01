@@ -1,0 +1,9 @@
+{
+	"name":"Forward Icon", 
+	"description":"自用",  
+	"icons":
+		[
+			{"name":"Emby", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/Emby.png"},
+			{"name":"Music", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/Music.png"}
+		]
+}
