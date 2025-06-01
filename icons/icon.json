@@ -3,13 +3,6 @@
 	"description":"星期数英文图标",  
 	"icons":
 		[
-			{"name":"Sun7", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Sun7.png"},
-			{"name":"Sat6", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Sat6.png"},
-			{"name":"Fri5", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Fri5.png"},
-			{"name":"Thu4", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Thu4.png"},
-			{"name":"Wed3", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Wed3.png"},
-			{"name":"Tue2", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Tue2.png"},
-			{"name":"Mon1", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Mon1.png"},
 			{"name":"Sun", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Sun.png"},
 			{"name":"Sat", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Sat.png"},
 			{"name":"Fri", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/icons/Fri.png"},
