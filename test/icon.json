@@ -3,7 +3,8 @@
 	"description":"自用",  
 	"icons":
 		[
-			{"name":"Emby", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/Emby.png"},
-			{"name":"Music", "url":"https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/Music.png"}
+			{"name":"svg", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/test/ceui.svg"},
+			{"name":"1440", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/test/1440×900.png"},
+			{"name":"720", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/test/720×450.png"}
 		]
 }
