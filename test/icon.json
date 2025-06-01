@@ -4,7 +4,9 @@
 	"icons":
 		[
 			{"name":"123", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/test/123.png"},
-			{"name":"1440", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/test/1440×900.png"},
-			{"name":"720", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/test/720×450.png"}
+			{"name":"biantao", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/test/biantaoti.png"},
+			{"name":"biantao", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/test/biantaoti.png"},
+			{"name":"misan", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/test/misans.png"},
+			{"name":"SN", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/test/SN.png"}
 		]
 }
